@@ -1,5 +1,4 @@
 # Instagram bio updater
-![Instagram](https://i.imgur.com/uwxUamZ.jpg)
 ## PT-BR
 
 Este script atualiza a bio do meu **[Instagram](https://www.instagram.com/mts.e/)** todos os dias com a porcentagem de conclusão do meu curso na faculdade.<br>
@@ -37,4 +36,5 @@ Last update: **17/08/2021**<br>
 Liked the idea?<br>
 Would you like to help me keep doing and studying what I like?<br>
 Donations are welcome!<br>
-**[Paypal](https://www.paypal.com/donate?business=9JLBAMGH5985E&currency_code=USD)**
+**[Paypal](https://www.paypal.com/donate?business=9JLBAMGH5985E&currency_code=USD)**<br>
+![Instagram](https://i.imgur.com/KJTMhys.jpg)
