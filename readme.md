@@ -1,5 +1,5 @@
 # Instagram bio updater
-![Instagram](https://imgur.com/a/EU4vS3q)
+![Instagram](https://i.imgur.com/uwxUamZ.jpg)
 ## PT-BR
 
 Este script atualiza a bio do meu **[Instagram](https://www.instagram.com/mts.e/)** todos os dias com a porcentagem de conclusão do meu curso na faculdade.<br>
