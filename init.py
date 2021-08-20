@@ -68,7 +68,7 @@ def telegramBotSendtext(message):
     return response.json()
 
 # documentar erro
-def documentarErro():
+def documentarErro(err):
     hoje = datetime.now()
     diaAtual = hoje.strftime("%d/%m/%Y - %H:%M")
     mensagem = ("{}\nErro em Alterar bio Instagram\n{}".format(diaAtual, err))
@@ -95,6 +95,6 @@ while True:
         try:
             schedule.run_pending()
         except Exception as err:
-            documentarErro()
+            documentarErro(err)
             erros += 1
     else: break
