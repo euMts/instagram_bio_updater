@@ -94,6 +94,7 @@ while True:
     if erros == 0:
         try:
             schedule.run_pending()
+            sleep(1)
         except Exception as err:
             documentarErro(err)
             erros += 1
