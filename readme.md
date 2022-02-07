@@ -7,7 +7,7 @@ Este script atualiza a bio do meu **[Instagram](https://www.instagram.com/mts.e/
 Temos a disponibilidade de utilizar a versão em **Python**, e a versão em **Javascript** (usando NodeJS).<br>
 
 - Utilize a versão escrita em **Python** caso queira deixar o script rodando em algum servidor, ou na sua máquina local, ele irá alterar sua bio uma vez por dia, e irá te avisar no **Telegram** caso ocorra algum erro.<br>
-- Utilize a versão escrita em **Javascript** caso queira executar ele uma vez por dia, adicionando ele na inicialização da sua máquina por exemplo. A versão escrita em **Js** não te notifica caso algum erro ocorra, e não foi feita para rodar 24/4, pois toda vez que o script for executado ele irá alterar a bio e será encerrado.<br>
+- Utilize a versão escrita em **Javascript** caso queira executar ele uma vez por dia, adicionando ele na inicialização da sua máquina por exemplo. A versão escrita em **Js** não te notifica caso algum erro ocorra, e não foi feita para rodar 24/7, pois toda vez que o script for executado ele irá alterar a bio e será encerrado.<br>
 
 ### Podem ocorrer mudanças
 Ambos scripts utilizam **web scraping**, logo, pode ser que com alguma atualização do Instagram ele deixe de funcionar.<br>
